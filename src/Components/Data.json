@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Katy Nguyen",
+        "phone": "0123456789",
+        "permision": 1
+    },
+    {
+        "id": 2,
+        "name": "Jame Bond",
+        "phone": "0123456789",
+        "permision": 2
+    },
+    {
+        "id": 3,
+        "name": "Jacky Dog",
+        "phone": "0123456789",
+        "permision": 3
+    },
+    {
+        "id": 4,
+        "name": "Halu lee",
+        "phone": "0123456789",
+        "permision": 2
+    },
+    {
+        "id": 5,
+        "name": "Cung Lee",
+        "phone": "0123456789",
+        "permision": 1
+    },
+    {
+        "id": 6,
+        "name": "Jimy",
+        "phone": "0123456789",
+        "permision": 3
+    }
+]
